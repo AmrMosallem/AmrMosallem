@@ -1,4 +1,4 @@
-<img src="images/banner.jpg"/>
+<img src="images/banner RAMADAN.jpg"/>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amrmosallem" alt="amrmosallem" /></a> </p>
@@ -58,5 +58,5 @@ I'm passionate about building modern, user-friendly interfaces with a focus on c
 ## 📫 **Connect with Me**  
 💼 [LinkedIn](https://www.linkedin.com/in/amr-mosallem-0540b9314/)  
 🌐 [Portfolio](https://effulgent-crisp-9fc1c2.netlify.app/)  
-📧 amrmosallem@example.com  
+📧 [Email](amromsllam@gmail.com)
 
