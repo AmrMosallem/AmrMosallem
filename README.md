@@ -62,5 +62,5 @@ I'm passionate about building modern, user-friendly interfaces with a focus on c
 ## 📫 **Connect with Me**
 
 💼 [LinkedIn](https://www.linkedin.com/in/amr-mosallem-0540b9314/)  
-🌐 [Portfolio](https://effulgent-crisp-9fc1c2.netlify.app/)  
+🌐 [Portfolio](https://www.amrmosallem.me/)  
 📧 [Email](amromsllam@gmail.com)
